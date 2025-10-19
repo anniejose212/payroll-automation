@@ -1,0 +1,8 @@
+# Ignore Visual Studio cache and build output
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsp
+*.vsidx
