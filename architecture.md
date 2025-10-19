@@ -17,6 +17,7 @@ The project is designed with clarity, maintainability, and real-world scalabilit
 ---
 
 ## 🧱 Solution Structure
+```
 
 payroll-automation/
 │
@@ -32,7 +33,7 @@ payroll-automation/
 │
 └── docs/ # Internal documentation
 
-
+```
 ---
 
 ## 🔁 Test Execution Lifecycle
