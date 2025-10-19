@@ -27,7 +27,7 @@ It demonstrates an **API-first approach**, followed by mock service testing, BDD
 ---
 
 ## 🧩 Project Structure
-
+```
 payroll-automation/
 ├── Contracts/ # OpenAPI, JSON Schemas, domain contracts
 ├── Tests.Api/ # API layer tests
@@ -37,7 +37,7 @@ payroll-automation/
 │ └── appsettings.json
 ├── Reports/ # Test output
 └── docs/ # Architecture & Test Strategy
-
+```
 
 ---
 
@@ -82,10 +82,11 @@ Feature: Payroll API smoke
 📊 Reporting
 Reports will be stored in:
 
-
+```
 /Reports/
   └── sample-run/
        └── index.html
+```       
 Planned:
 
 ExtentReports or NUnit HTML
